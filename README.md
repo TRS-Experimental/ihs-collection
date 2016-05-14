@@ -10,3 +10,6 @@ Tools being investigated are Open Source Collect Management Systems. They includ
 * Musarch - http://www.musarch.com/
 * Koha - http://www.koha.org/
 
+## CollectiveAccess
+
+Seems to cover all the functionality but UI needs some work.
